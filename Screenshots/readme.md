@@ -1,5 +1,8 @@
-![Login Page](https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Login.jpeg)
+## Login Page
+<img src="https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Login.jpeg" alt="Login Page" width="300" />
 
-![Signup Page](https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Sign%20up.jpeg)
+## Signup Page
+<img src="https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Sign%20up.jpeg" alt="Signup Page" width="300" />
 
-![Main Page](https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Main%20Page.jpeg)
+## Main Page
+<img src="https://github.com/rounak-69/Chatting-App/blob/main/Screenshots/Main%20Page.jpeg" alt="Main Page" width="300" />
